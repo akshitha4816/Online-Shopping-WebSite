@@ -1,5 +1,1 @@
-"# Online-Shopping-WebSite" 
-"# Online-Shopping-WebSite" 
-"# Online-Shopping-WebSite" 
-"# Online-Shopping-WebSite" 
-"# Online-Shopping-WebSite" 
+This repository contains a full-stack Online Shopping Web Application designed to streamline delivery and admin management processes. The backend is built using a robust Java Spring framework, providing secure and efficient handling of business logic, database interactions, and API endpoints. The frontend, located in the online-shopping folder, offers a user-friendly interface for customers, delivery personnel, and administrators to interact seamlessly with the system. Key features include product management, order tracking, user authentication, and role-based access control. This project serves as a comprehensive assignment demonstrating practical implementation of e-commerce functionality with a focus on modular architecture and maintainability.
